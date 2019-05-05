@@ -1,0 +1,2 @@
+git clone ssh://git_tytd@192.168.1.36:2240/volume2/git_server/huangjin.git
+ÃÜÂë£º123456
